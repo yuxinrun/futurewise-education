@@ -1,0 +1,23 @@
+# dependencies
+node_modules/
+
+# build output
+dist/
+
+# vite / tooling cache
+.vite/
+*.local
+
+# editor / os
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# logs
+*.log
+npm-debug.log*
+
+# scratch / intermediates
+vibe_images/
+/tmp/
